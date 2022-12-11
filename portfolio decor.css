@@ -41,6 +41,16 @@ body{
     justify-content: center;
 }
 
+/* Home page start */
+.research{
+    display: flex;
+    justify-content: center;
+}
+
+.research a{
+    text-decoration: none;
+}
+
 /* Artifact Page Start */
 #degree{
     display:flex;
@@ -50,5 +60,5 @@ body{
 /* Resume Page Start */
 #resume{
     display:flex;
-    
+
 }
