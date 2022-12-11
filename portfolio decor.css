@@ -4,6 +4,7 @@
     padding: 0;
     margin: 0;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgba(0, 0, 0, 0.516);
 }
 body{
     background-color: white;
@@ -33,6 +34,13 @@ body{
     color: black;
 }
 
+#name{
+    color: rgba(0, 0, 0, 0.516);
+    font-size: 23px;
+    list-style: none;
+    justify-self: start; 
+}
+
 /* Navbar End */
 
 .title{
@@ -44,11 +52,17 @@ body{
 /* Home page start */
 .research{
     display: flex;
-    justify-content: center;
+    justify-content: left;
 }
 
 .research a{
     text-decoration: none;
+    font-size: 50px;
+    color: rgba(0, 0, 0, 0.516); 
+}
+
+.research a:hover{
+    color:black;
 }
 
 /* Artifact Page Start */
