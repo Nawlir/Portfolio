@@ -50,6 +50,11 @@ body{
 }
 
 /* Home page start */
+#grad{
+    border: 3px green solid;
+    border-radius: 10px;
+}
+
 .research{
     display: flex;
     justify-content: left;
@@ -65,14 +70,38 @@ body{
     color:black;
 }
 
-/* Artifact Page Start */
-#degree{
-    display:flex;
+.grades{
+    display: flex;
     justify-content: center;
+}
+#map{
+    border: 1px grey solid;
+    border-radius: 10px;
+}
+
+/* Artifact Page Start */
+.degree{
+    display:flex;
+    gap: 9rem;
+}
+
+#cert{
+    border: 1px grey solid;
+    border-radius: 10px;
+    width: 1141px;
+    height: 513px;
+}
+
+#food{
+    border: 1px black solid;
+    border-radius: 10px;
 }
 
 /* Resume Page Start */
 #resume{
     display:flex;
+    border: 1px grey solid;
+    border-radius: 10px;
 
 }
+
