@@ -38,7 +38,6 @@ body{
     color: rgba(0, 0, 0, 0.516);
     font-size: 23px;
     list-style: none;
-    justify-self: start; 
 }
 
 /* Navbar End */
@@ -51,7 +50,7 @@ body{
 
 /* Home page start */
 #grad{
-    border: 3px green solid;
+    border: 1px grey solid;
     border-radius: 10px;
 }
 
