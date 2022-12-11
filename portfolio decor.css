@@ -74,6 +74,7 @@ body{
     display: flex;
     justify-content: center;
 }
+
 #map{
     border: 1px grey solid;
     border-radius: 10px;
