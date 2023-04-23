@@ -126,6 +126,19 @@ color: white;
     width: 330px;
 }
 
+#common{
+    border: 1px;
+    border-radius: 10px;
+    height: 197px;
+    width: 330px;
+}
+
+#transfer{
+    border: 1px;
+    border-radius: 10px;
+    height: 197px;
+    width: 330px;
+}
 .gridtext{
     display: flex;
     justify-content: center;
